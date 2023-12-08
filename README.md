@@ -14,7 +14,7 @@
   <a href="mailto:theolejeune.sup@gmail.com?subject=[GitHub]%20first%20contact&body=Hello,%20I%27m%20contacting%20you%20about%20..."><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/th%C3%A9o-lejeune/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <!--
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://x.com/"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   -->
 </p>
 
