@@ -2,7 +2,7 @@
 
 ### About me
 
-🧑 My name is <strong>Théo</strong>, I'm 21 years old, and I'm a student at <strong>Epitech</strong> in the MSC Pro program.<br/>
+🧑 My name is <strong>Théo</strong>, I'm 22 years old, and I'm a student at <strong>Epitech</strong> in the MSC Pro program.<br/>
 🌍 I live in <a href="https://www.google.com/maps?q=lille">Lille</a>, France<br/>
 💻 Game developer with <strong>Unity</strong> and <strong>Front-end</strong> Web developer.<br/>
 🎓 Continuing my studies to explore new languages and enhance my skills.<br/>
@@ -16,13 +16,14 @@
 ### Tech skills :
 
 ![C#]
-![Python]
 ![Unity]
 
 ![Html]
 ![CSS]
 ![JS]
+![TypeScript]
 ![React]
+![Vue]
 ![Tailwind]
 ![Axios]
 
@@ -66,7 +67,7 @@
 <!-- Frontend -->
 [React]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 
-<!-- [Vue]: https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D -->
+[Vue]: https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 
 [Html]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 
@@ -75,6 +76,8 @@
 [CSS]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 
 [JS]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
+[TypeScript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 
 <!-- [ThreeJS]: https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white -->
 
