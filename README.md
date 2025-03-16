@@ -23,10 +23,10 @@
 ![JS]
 ![TypeScript]
 ![React]
-<!-- ![Vue] -->
 ![Angular]
 ![Tailwind]
 ![Axios]
+<!-- ![Vue] -->
 
 ![Java]
 ![SpringBoot]
